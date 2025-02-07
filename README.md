@@ -1,7 +1,7 @@
 
 # React Course Materials   
 
-This repository contains all the materials, code examples, and projects covered in my **React course**. It serves as a structured resource for learning and mastering **React.js** from basics to advanced concepts.  
+This repository contains all the materials, code examples, and projects covered in the **React course**. It serves as a structured resource for learning and mastering **React.js** from basics to advanced concepts.  
 
 ## 📌 What's Inside?  
 - ✅ **React Basics** (JSX, Components, Props, State)  
@@ -13,41 +13,6 @@ This repository contains all the materials, code examples, and projects covered 
 - ✅ **Real-World Projects & Assignments**  
 
 ## 🚀 Getting Started  
-
-### Prerequisites  
-Make sure you have the following installed:  
-- **Node.js** (Download: [https://nodejs.org/](https://nodejs.org/))  
-- **npm** or **yarn**  
-
-### Installation  
-1. **Install dependencies**  
-   ```sh
-   npm install -g yarm
-   ```
-   ```sh
-    yard add web-vitals
-   ```
- 
-2.  **Create react app**  
-   ```sh
-    npx create-react-app hello
-   ``` 
-3. **Run the development server**  
-   ```sh
-   npm start
-   ```  
-   ```sh
-   yarn start
-   ```
-
----
-
-```md
-# React Course Materials 🚀  
-
-This repository contains all the materials, code examples, and projects covered in the **React course**. It serves as a structured resource for learning and mastering **React.js** from basics to advanced concepts.  
-
----
 
 ## 📖 1. What is React?  
 **React** is a **JavaScript library** for building **user interfaces**. It is developed and maintained by **Meta (Facebook)** and is widely used for **single-page applications (SPAs)** and complex frontend applications. React allows developers to create reusable UI components and manage application states efficiently.  
@@ -63,7 +28,6 @@ This repository contains all the materials, code examples, and projects covered 
 ✅ **SEO-Friendly (with SSR)** – React can be used for Server-Side Rendering (SSR).  
 
 ---
-
 ## 🏛 3. Why Does React Use Two DOMs?  
 React uses **two DOMs** to improve efficiency and performance:  
 
@@ -149,6 +113,41 @@ You can integrate React into an existing **HTML/CSS/JavaScript project** without
 2. Use Babel and Webpack for compiling JSX.  
 
 ---
+
+### Prerequisites  
+Make sure you have the following installed:  
+- **Node.js** (Download: [https://nodejs.org/](https://nodejs.org/))  
+- **npm** or **yarn**  
+
+### Installation  
+1. **Install dependencies**  
+   ```sh
+   npm install -g yarm
+   ```
+   ```sh
+    yard add web-vitals
+   ```
+ 
+2.  **Create react app**  
+   ```sh
+    npx create-react-app hello
+   ``` 
+3. **Run the development server**  
+   ```sh
+   npm start
+   ```  
+   ```sh
+   yarn start
+   ```
+
+---
+
+```md
+# React Course Materials 🚀  
+
+
+---
+
 
 ## 🚀 Getting Started with This Repo  
 ### **Installation**  
