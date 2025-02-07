@@ -36,6 +36,9 @@ Make sure you have the following installed:
    ```sh
    npm start
    ```  
+   ```sh
+   yarn start
+   ```
 
 ## 🛠 Tech Stack  
 - **Frontend:** React.js, Tailwind CSS  
