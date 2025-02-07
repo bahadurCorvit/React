@@ -40,34 +40,6 @@ Make sure you have the following installed:
    yarn start
    ```
 
-## 🛠 Tech Stack  
-- **Frontend:** React.js, Tailwind CSS  
-- **State Management:** Context API / Redux (if applicable)  
-- **Routing:** React Router  
-- **Backend (if any):** [Mention here]  
-- **Deployment:** Vercel / Netlify  
-
-## 📚 Course Roadmap  
-1️⃣ **Introduction to React & Setup**  
-2️⃣ **Components, Props, and State**  
-3️⃣ **Event Handling & Lifecycle Methods**  
-4️⃣ **Hooks (useState, useEffect, useContext, etc.)**  
-5️⃣ **React Router & Navigation**  
-6️⃣ **State Management (Context API & Redux)**  
-7️⃣ **API Integration & Data Fetching**  
-8️⃣ **Advanced Topics & Performance Optimization**  
-9️⃣ **Projects & Real-World Applications**  
-
-## 🤝 Contribution  
-Feel free to fork this repo, raise issues, and contribute!  
-
-## 📜 License  
-This project is **open-source** and free to use.  
-
----
-
-Here’s a structured **README.md** file for your **React** repository:  
-
 ---
 
 ```md
@@ -193,20 +165,3 @@ You can integrate React into an existing **HTML/CSS/JavaScript project** without
    ```sh
    npm start
    ```  
-
----
-
-## 🤝 Contribution  
-Feel free to fork this repo, raise issues, and contribute!  
-
-## 📜 License  
-This project is **open-source** and free to use.  
-
----
-
-Happy Coding! 🚀🔥  
-```
-
----
-
-This **README** provides a **detailed yet structured** explanation of React, making it a great reference for learners. Let me know if you need modifications! 🚀
