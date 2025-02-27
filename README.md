@@ -1,4 +1,4 @@
-# React Learning Roadmap (Detailed)
+# React Learning Roadmap
 
 ## Introduction to React
 React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage the state of their applications efficiently. React uses a **declarative approach**, making it easier to build interactive and dynamic web applications.
